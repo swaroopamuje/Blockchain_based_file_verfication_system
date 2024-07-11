@@ -1,5 +1,5 @@
 window.CONTRACT = {
-  address: '0x2c3F634fC684C6a611692D073979BF9D328E05dA',
+  address: '',
   explore: 'The Blockchain Explore Like [https://polygonscan.com/]',
   abi: [
     {
